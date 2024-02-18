@@ -21,3 +21,10 @@ uvicorn --app-dir .\API\ main:app --reload
 ## Setup Frontend 🚀(For End-Users)
 
 There is no need to install anything for the frontend, just run the `leafotev.exe` file and the application will start.
+
+### Snapshots of User Application
+
+<p float="middle">
+  <img src="https://github.com/IIvexII/Leafotev/assets/41378765/29734eb0-2de7-41eb-b468-bf6740dec69a" width="500" />
+  <img src="https://github.com/IIvexII/Leafotev/assets/41378765/3a64bdab-ab6d-4479-84e9-40d1a2098b62" width="500" /> 
+</p>
